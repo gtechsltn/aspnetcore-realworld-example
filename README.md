@@ -1,5 +1,9 @@
 # ![RealWorld Example App](logo.png)
 
+https://github.com/gtechsltn/aspnetcore-realworld-example-app
+
+https://github.com/gtechsltn/aspnetcore-realworld-example
+
 ASP.NET Core 8.0 codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 ## [RealWorld](https://github.com/gothinkster/realworld)
